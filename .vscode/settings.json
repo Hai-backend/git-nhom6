@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.port": 5501,
+    "ipynb.pasteImagesAsAttachments.enabled": true,
+    "ipynb.experimental.serialization": false,
+    "auto-close-tag.fullMode": false
+}
